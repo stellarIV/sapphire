@@ -10,7 +10,7 @@ const IBMPlex = IBM_Plex_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Opia",
+  title: "Sapphire",
   description: "Image generation powered by AI",
 };
 
